@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "날짜": "date",
+    "Objective": "text",
+    "개요 여부": "checkbox"
+  }
+}

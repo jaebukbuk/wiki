@@ -1,0 +1,9 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "accentColor": "#7dd87f"
+}

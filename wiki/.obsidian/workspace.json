@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3735c56a4a9af910",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e58076dea2389d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94d9d11142b9d8b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e989543eaba08bb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "396410aeb460dc4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#🐤HomePage",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c011713811f8741e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5026054382324
+  },
+  "right": {
+    "id": "e4b213e428f67779",
+    "type": "split",
+    "children": [
+      {
+        "id": "76fc5ef2a03a6ee2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f1566b09ae63f03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🐤HomePage.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 🐤HomePage"
+            }
+          },
+          {
+            "id": "9bfda0afbcd56ad2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5f3a3f4ae8bcf1da",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "af7f2856d227fccb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project/docker,K8s/37. Hands-On_Managing Images with the Docker CLI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 37. Hands-On_Managing Images with the Docker CLI"
+            }
+          },
+          {
+            "id": "6f06a241dff9db30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project/docker,K8s/37. Hands-On_Managing Images with the Docker CLI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 37. Hands-On_Managing Images with the Docker CLI"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "e989543eaba08bb5",
+  "lastOpenFiles": [
+    "🐤HomePage.md",
+    "📌해요노트.md",
+    "Project/docker,K8s/41. Hands-On_Images vs. Containers.md",
+    "🐲Project.md",
+    "Project/docker,K8s/39. Hands-On_Creating Our First Dockerfile for Nginx.md",
+    "Project/docker,K8s/37. Hands-On_Managing Images with the Docker CLI.md",
+    "🦜Resource Obsidian.md",
+    "Resource/create a link.md",
+    "Resource/DataView practice.md",
+    "Project/docker,K8s/54. Hands-On_Setting Environment Variables via Files 1.md",
+    "🐲Project 개발활동 개인서버구축 Docker강의.md",
+    "핸드폰.md",
+    "🦜Resource.md",
+    "🫎Archive.md",
+    "🐲Project 개발활동 개인서버구축.md",
+    "Untitled.md",
+    "🐳Area.md",
+    "Project/docker,K8s/38. Introduction to Dockerfiles.md",
+    "Project/docker,K8s/53. Hands-On_Setting Environment Variables via the CLI.md",
+    "🐲Project 개발활동.md",
+    "Project 해요노트 1.md",
+    "Project",
+    "2025-03-17.md",
+    "2025-04-07.md",
+    "Resource",
+    "Project/docker,K8s/docker Script/Sript_50.md",
+    "Project/docker,K8s/50. Hands-On_Build Contexts.md",
+    "Project/docker,K8s/46~47. Project - Dockerize an Containerized Express App.md",
+    "Project",
+    "(",
+    "Project/docker,K8s/Pasted image 20250325204440.png",
+    "Pasted image 20250410222907.png",
+    "Untitled.canvas",
+    "Untitled 1",
+    "Project/docker,K8s/docker Script",
+    "Project/docker,K8s"
+  ]
+}
