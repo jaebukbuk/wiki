@@ -4,13 +4,8 @@ aliases:
 ---
 ## Pages
 
-```dataview
-TABLE Without ID
-      link(file.name)                          as "파일"
-    , file.properties.Objective
-    , dateformat(file.ctime, "yyyy-MM-dd")     as "생성일"
-FROM ""
-FLATTEN substring(file.etags, 1) as etag
-where etag = "🦜Resource/Obsidian"
-SORT etag, file.ctime desc
-```
+| 파일                                                   | file.properties.Objective | 생성일        |
+| ---------------------------------------------------- | ------------------------- | ---------- |
+| [DataView practice](./DataView%20practice.md) | \-                        | 2025-03-17 |
+| [create a link](./create%20a%20link.md)         | \-                        | 2025-03-17 |
+
