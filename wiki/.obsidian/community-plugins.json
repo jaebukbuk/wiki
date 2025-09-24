@@ -10,5 +10,6 @@
   "obsidian-hider",
   "obsidian-style-settings",
   "shiki-highlighter",
-  "code-styler"
+  "code-styler",
+  "obsidian-mkdocs-publisher"
 ]

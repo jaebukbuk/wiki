@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "🐲Project 개발활동 개인서버구축.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🐲Project 개발활동 개인서버구축"
             }
           }
         ]
@@ -64,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🐤HomePage",
+                "query": "tag:#🐲Project/개발활동/개인서버구축/Docker강의",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -135,8 +139,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -191,28 +195,28 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e989543eaba08bb5",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "🐲Project 개발활동.md",
+    "🐲Project 개발활동 개인서버구축.md",
+    "🐲Project 개발활동 개인서버구축 Docker강의.md",
+    "🐲Project.md",
     "🐤HomePage.md",
+    "🦜Resource Obsidian.md",
+    "🦜Resource.md",
+    "🐳Area.md",
     "📌해요노트.md",
     "Project/docker,K8s/41. Hands-On_Images vs. Containers.md",
-    "🐲Project.md",
     "Project/docker,K8s/39. Hands-On_Creating Our First Dockerfile for Nginx.md",
     "Project/docker,K8s/37. Hands-On_Managing Images with the Docker CLI.md",
-    "🦜Resource Obsidian.md",
     "Resource/create a link.md",
     "Resource/DataView practice.md",
     "Project/docker,K8s/54. Hands-On_Setting Environment Variables via Files 1.md",
-    "🐲Project 개발활동 개인서버구축 Docker강의.md",
     "핸드폰.md",
-    "🦜Resource.md",
     "🫎Archive.md",
-    "🐲Project 개발활동 개인서버구축.md",
     "Untitled.md",
-    "🐳Area.md",
     "Project/docker,K8s/38. Introduction to Dockerfiles.md",
     "Project/docker,K8s/53. Hands-On_Setting Environment Variables via the CLI.md",
-    "🐲Project 개발활동.md",
     "Project 해요노트 1.md",
     "Project",
     "2025-03-17.md",
