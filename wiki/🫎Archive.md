@@ -1,27 +1,15 @@
 ---
-Aliases: [ "#🫎Archive" ]
+Aliases:
+  - "#🫎Archive"
 ---
 ## Sub Tags
-```dataview
-TABLE Without Id
-  file.aliases
-, file.link                                as "태그페이지"
-, dateformat(file.ctime, "yyyy-MM-dd")     as "생성일"
-from ""
-where length(file.aliases) > 0
- and contains(file.aliases,"🫎Archive/")
- sort file.aliases
-```
+| file.aliases | 태그페이지 | 생성일 |
+| ------------ | ----- | --- |
+
 
 ## Pages
 
-```dataview
-TABLE Without ID
-      link(file.name)                          as "파일"
-    , file.properties.Objective
-    , dateformat(file.ctime, "yyyy-MM-dd")     as "생성일"
-FROM ""
-FLATTEN substring(file.etags, 1) as etag
-where etag = "🫎Archive"
-SORT etag, file.ctime desc
-```
+| 파일              | file.properties.Objective | 생성일        |
+| --------------- | ------------------------- | ---------- |
+| [핸드폰](./%ED%95%B8%EB%93%9C%ED%8F%B0.md) | \-                        | 2025-05-07 |
+
