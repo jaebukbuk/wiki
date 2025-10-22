@@ -20,6 +20,9 @@ SORT length(rows.file.link) DESC
 
 | 하위 태그 파일 | 하위 태그 | 하위 태그 페이지 | 생성일 |
 | -------- | ----- | --------- | --- |
+| 하위 태그 파일 | 하위 태그 | 하위 태그 페이지 | 생성일 |
+| -------- | ----- | --------- | --- |
+
 
 
 ```text
@@ -112,8 +115,8 @@ where file.name ="Project"
 
 | File                                                   | file.tags | file.etags | any(mappedTags) | all(mappedTags) |
 | ------------------------------------------------------ | --------- | ---------- | --------------- | --------------- |
-| [DataView practice](DataView%20practice.md) | <ul></ul> | <ul></ul>  | false           | true            |
-| [옵시디언 사용 예제](./%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%20%EC%82%AC%EC%9A%A9%20%EC%98%88%EC%A0%9C.md)               | <ul></ul> | <ul></ul>  | false           | true            |
+| [DataView practice](DataView%2520practice.md#) | <ul></ul> | <ul></ul>  | false           | true            |
+| [옵시디언 사용 예제](./%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%2520%EC%82%AC%EC%9A%A9%2520%EC%98%88%EC%A0%9C.md#)               | <ul></ul> | <ul></ul>  | false           | true            |
 | [무제](./%EB%AC%B4%EC%A0%9C.md)                                          | <ul></ul> | <ul></ul>  | false           | true            |
 
 
