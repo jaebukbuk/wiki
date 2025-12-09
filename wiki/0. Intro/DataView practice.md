@@ -3,7 +3,7 @@
     
 | 하위 태그 | 태그 페이지 | 하위 페이지 수 |    
 | ----- | ------ | -------- |    
-    
+     
 ```text    
 table Without Id    
       tags                                        as "하위 태그"    
@@ -20,6 +20,9 @@ SORT length(rows.file.link) DESC
     
 | 하위 태그 파일 | 하위 태그 | 하위 태그 페이지 | 생성일 |    
 | -------- | ----- | --------- | --- |    
+| 하위 태그 파일 | 하위 태그 | 하위 태그 페이지 | 생성일 |    
+| -------- | ----- | --------- | --- |    
+    
     
     
 ```text    
@@ -112,10 +115,9 @@ where file.name ="Project"
     
 | File                                                   | file.tags | file.etags | any(mappedTags) | all(mappedTags) |    
 | ------------------------------------------------------ | --------- | ---------- | --------------- | --------------- |    
-| [testtesttestest](../2_DB/testtesttestest.md#)           | <ul></ul> | <ul></ul>  | false           | true            |    
 | [DataView practice](DataView%2520practice.md#) | <ul></ul> | <ul></ul>  | false           | true            |    
-| [옵시디언 사용 예제](./%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%20%EC%82%AC%EC%9A%A9%20%EC%98%88%EC%A0%9C.md)               | <ul></ul> | <ul></ul>  | false           | true            |    
-| [무제](../%EB%AC%B4%EC%A0%9C.md)                                          | <ul></ul> | <ul></ul>  | false           | true            |    
+| [옵시디언 사용 예제](./%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%2520%EC%82%AC%EC%9A%A9%2520%EC%98%88%EC%A0%9C.md#)               | <ul></ul> | <ul></ul>  | false           | true            |    
+| [📌 정리 해야할것!](./%F0%9F%93%8C%2520%EC%A0%95%EB%A6%AC%2520%ED%95%B4%EC%95%BC%ED%95%A0%EA%B2%83!.md#)                                          | <ul></ul> | <ul></ul>  | false           | true            |    
     
     
 ```text    
