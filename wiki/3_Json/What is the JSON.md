@@ -1,3 +1,5 @@
+  
+🐳 공식문서 : https://datatracker.ietf.org/doc/html/rfc8259   
 ### 📌 개요  
 1️⃣ JSON (JavaScript Object Notation)은 이름 그대로 자바스크립트의 객체 타입(Object literals)에서 파생되었고,  
 특정 프로그래밍 언어에 종속되지 않는, 구조화된 데이터를 직렬화 하기 위한 텍스트 기반의 표현 방식 이다.  
